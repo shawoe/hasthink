@@ -153,7 +153,7 @@
                     '<i class="fa fa-envelope-o fa-2x text-success"></i>'+
                   '</span>'+
                   '<span class="media-body block m-b-none">'+
-                    'Sophi sent you a email<br>'+
+                    '您有新的竞标，马上查看<br>'+
                     '<small class="text-muted">1 minutes ago</small>'+
                   '</span>'+
                 '</a>';	
